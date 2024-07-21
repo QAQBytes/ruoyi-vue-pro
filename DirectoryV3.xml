@@ -5,7 +5,7 @@
            textColor="" backgroundColor=""/>
      <tree path="/yudao-framework/yudao-common" title="定义基础 pojo 类、枚举、工具类等"/>
      <tree path="/yudao-framework/yudao-spring-boot-starter-biz-data-permission" title="数据权限"/>
-     <tree path="/yudao-framework/yudao-spring-boot-starter-biz-ip" title="地区 & IP 库"/>
+     <tree path="/yudao-framework/yudao-spring-boot-starter-biz-ip" title="地区 IP 库"/>
      <tree path="/yudao-framework/yudao-spring-boot-starter-biz-tenant" title="SaaS 多租户"/>
      <tree path="/yudao-framework/yudao-spring-boot-starter-excel" title="Excel 导入导出，基于 EasyExcel 实现"/>
      <tree path="/yudao-framework/yudao-spring-boot-starter-job" title="定时任务，基于 Quartz 实现，支持集群模式"/>
