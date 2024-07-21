@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <trees>
+     <tree path="/yudao-dependencies" title="Maven依赖版本管理"/>
+     <tree path="/yudao-framework" title="Java 框架拓展" extension="" presentableText="" tooltipTitle="" icon=""
+           textColor="" backgroundColor=""/>
+     <tree path="/yudao-framework/yudao-common" title="定义基础 pojo 类、枚举、工具类等"/>
+     <tree path="/yudao-framework/yudao-spring-boot-starter-biz-data-permission" title="数据权限"/>
+     <tree path="/yudao-framework/yudao-spring-boot-starter-biz-ip" title="地区 & IP 库"/>
+     <tree path="/yudao-framework/yudao-spring-boot-starter-biz-tenant" title="SaaS 多租户"/>
+     <tree path="/yudao-framework/yudao-spring-boot-starter-excel" title="Excel 导入导出，基于 EasyExcel 实现"/>
+     <tree path="/yudao-framework/yudao-spring-boot-starter-job" title="定时任务，基于 Quartz 实现，支持集群模式"/>
+     <tree path="/yudao-framework/yudao-spring-boot-starter-monitor"
+           title="服务监控，提供链路追踪、日志服务、指标收集等功能"/>
+    <tree path="/yudao-framework/yudao-spring-boot-starter-mq" title="消息队列，基于 Redis 实现，支持集群消费和广播消费"/>
+    <tree path="/yudao-framework/yudao-spring-boot-starter-mybatis"
+          title="消息队列，基于 Redis 实现，支持集群消费和广播消费"/>
+    <tree path="/yudao-framework/yudao-spring-boot-starter-protection"
+          title="服务保障，提供幂等、分布式锁、限流、熔断等功能"/>
+    <tree path="/yudao-framework/yudao-spring-boot-starter-redis"
+          title="缓存操作，基于 Spring Data Redis + Redisson 实现"/>
+    <tree path="/yudao-framework/yudao-spring-boot-starter-security" title="认证授权，基于 Spring Security 实现"/>
+    <tree path="/yudao-framework/yudao-spring-boot-starter-test" title="单元测试，基于 Junit + Mockito 实现"/>
+    <tree path="/yudao-framework/yudao-spring-boot-starter-web" title="Web 封装，提供全局异常、访问日志等"/>
+    <tree path="/yudao-framework/yudao-spring-boot-starter-websocket"
+          title="WebSocket 封装，提供 Token 认证、WebSocket 集群广播、Message 监听"/>
+    <tree path="/yudao-framework/yudao-spring-boot-starter-biz-data-permission/src/main/java/cn/iocoder/yudao/framework/datapermission/config"
+          title="配置"/>
+    <tree path="/yudao-framework/yudao-spring-boot-starter-biz-data-permission/src/main/java/cn/iocoder/yudao/framework/datapermission/core"
+          title="功能"/>
+    <tree path="/yudao-module-system" title="系统功能"/>
+    <tree path="/yudao-module-infra" title="基础设施"/>
+    <tree path="/yudao-module-member" title="会员中心"/>
+    <tree path="/yudao-module-bpm" title="工作流程"/>
+    <tree path="/yudao-module-pay" title="支付系统"/>
+    <tree path="/yudao-module-report" title="大屏报表"/>
+    <tree path="/yudao-module-mall" title="商城系统"/>
+    <tree path="/yudao-module-erp" title="ERP 系统"/>
+    <tree path="/yudao-module-crm" title="CRM 系统"/>
+    <tree path="/yudao-module-mp" title="微信公众号"/>
+    <tree path="/yudao-module-mp/yudao-module-mp-api" title="提供给其它模块的 API 定义"/>
+    <tree path="/yudao-module-mp/yudao-module-mp-biz" title="模块的功能的具体实现"/>
+    <tree path="/yudao-module-bpm/yudao-module-bpm-api" title="提供给其它模块的 API 定义"/>
+    <tree path="/yudao-module-bpm/yudao-module-bpm-biz" title="模块的功能的具体实现"/>
+    <tree path="/yudao-module-infra/yudao-module-infra-api" title="提供给其它模块的 API 定义"/>
+    <tree path="/yudao-module-infra/yudao-module-infra-biz" title="模块的功能的具体实现"/>
+</trees>
